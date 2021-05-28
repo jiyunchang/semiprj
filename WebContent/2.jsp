@@ -8,6 +8,12 @@
 </head>
 <body>
 gggggggggggg
+<<<<<<< HEAD
 gggggggggggg
+=======
+aaaaaaaaaaaaaa
+awefasg
+asgaweg
+>>>>>>> branch 'master' of https://github.com/jiyunchang/semiprj.git
 </body>
 </html>
